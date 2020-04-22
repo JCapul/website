@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WoWoHa 2020 - Workflow Summer Seminar Series 2020</title>
-    <link>https://wowoha.org/tags/</link>
+    <link>https://jcapul.github.io/website/tags/</link>
     <description>Recent content in Tags on WoWoHa 2020 - Workflow Summer Seminar Series 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://wowoha.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jcapul.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
